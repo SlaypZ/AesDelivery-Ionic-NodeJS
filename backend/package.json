@@ -1,0 +1,18 @@
+{
+  "name": "aesdelivery",
+  "version": "1.0.0",
+  "description": "Api em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "ionic",
+    "ng",
+    "angular",
+    "js"
+  ],
+  "author": "Gustavo Fontana",
+  "license": "MIT"
+}
